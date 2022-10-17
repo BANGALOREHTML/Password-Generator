@@ -17,7 +17,7 @@ The user is prompted to choose a password length between 8 and 128 characters. T
 ### Screenshot of working application and link to deployed application
 [Screenshot of Deployed Application](./assets/deployed-application.png)
 
-Deployed Website Link [Click Here!](file:///Users/gods_favorite_customer/Desktop/homeworktwo/Password-generator/Devloped/index.html)
+Deployed Website Link [Click Here!](http://127.0.0.1:5500/Devloped/index.html)
 
 ### Credits
 Created by Dez Duran
