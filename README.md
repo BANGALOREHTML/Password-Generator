@@ -15,9 +15,9 @@ To provide users with a secure password generator.
 The user is prompted to choose a password length between 8 and 128 characters. The user is then prompted to choose whether or not they want to include lowercase letters, uppercase letters, numbers, and/or special characters. The user's choices are then used to generate a random password.
 
 ### Screenshot of working application and link to deployed application
-[Screenshot of Deployed Application](./assets/deployed-application.png)
+[Screenshot of Deployed Application](/)
 
-Deployed Website Link [Click Here!](http://127.0.0.1:5500/Devloped/index.html)
+Deployed Website Link [Click Here!](https://bangalorehtml.github.io/Password-Generator/)
 
 ### Credits
 Created by Dez Duran
